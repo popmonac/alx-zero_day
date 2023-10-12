@@ -1,2 +1,2 @@
 My first readme
-README.md update is on
+This README.md update was done on github.com
